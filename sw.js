@@ -1,4 +1,4 @@
-const CACHE = 'aos-training-v5';
+const CACHE = 'aos-training-v6';
 const FILES = ['./index.html'];
 
 self.addEventListener('install', e => {
